@@ -1,3 +1,3 @@
 # cmd_game
 CUI game file
-Command line user interface game which is programmed with python.
+A list of all command line game.
